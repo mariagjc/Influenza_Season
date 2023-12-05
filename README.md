@@ -7,7 +7,7 @@ Provide recommendations to the staffing agency to determine when to send staff, 
 
 # Data
 
-The data used constituted of the following tables:
+The data sets commit information on the following parameters:
 
 1. Influenza deaths by geography, time, age, and gender
 2. Population data by geography
