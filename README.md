@@ -9,5 +9,5 @@ Provide recommendations to the staffing agency to determine when to send staff, 
 
 The data used constituted of the following tables:
 
-Influenza deaths by geography, time, age, and gender
-Population data by geography
+1. Influenza deaths by geography, time, age, and gender
+2. Population data by geography
