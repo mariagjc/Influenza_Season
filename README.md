@@ -11,3 +11,6 @@ The data sets commit information on the following parameters:
 
 1. Influenza deaths by geography, time, age, and gender
 2. Population data by geography
+
+# Tableau Presentation
+https://public.tableau.com/app/profile/mgjc/viz/2_9TaskNew/Influenza
